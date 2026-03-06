@@ -1,0 +1,24 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: rgb(4, 253, 37)
+    }
+
+a{
+    text-decoration: none;
+}
+
+.box {
+    font-size: 20px;
+    color: white;
+    height: 300px;
+    width: 500px;
+    border-radius: 10px;
+    background-color: #191919;
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
